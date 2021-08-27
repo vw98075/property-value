@@ -179,3 +179,11 @@ jhipster:
 # ===================================================================
 
 # application:
+
+gitea:
+  api:
+    host:
+      baseurl: localhost:3000/api/v1
+  host:
+    baseurl: localhost:3000
+  one_time_password: password

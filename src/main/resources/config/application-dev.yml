@@ -103,3 +103,7 @@ jhipster:
 # ===================================================================
 
 # application:
+
+api:
+  host:
+    baseurl: localhost:3001/api/v1
